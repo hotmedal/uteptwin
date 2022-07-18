@@ -1,0 +1,9 @@
+{
+    "dt-id": "https://dtid.org/8b0c8f92-8799-4e9f-b39e-2093343ce962",
+    "hosting-iri": "https://hotmedal.github.io/uteptwin/8b0c8f92-8799-4e9f-b39e-2093343ce962",
+    "name": "UTEP campus",
+    "description": "3D model of UTEP campus with road network. Runs in CARLA.",
+    "baseurl": "https://hotmedal.github.io/uteptwin",
+    "edit": "https://github.com/hotmedal/uteptwin/edit/main/docs/8b0c8f92-8799-4e9f-b39e-2093343ce962/index.yaml",
+    "edit-json": "https://github.com/hotmedal/uteptwin/edit/main/docs/8b0c8f92-8799-4e9f-b39e-2093343ce962/index.json"
+}
